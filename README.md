@@ -1,0 +1,2 @@
+# Clinic-management-application
+This application aims to support an innovative and digital system for clinics. The clinic management application has a special module for medical prescription, thus saving the material resources needed to make paper and the time allocated to the bureaucracy. The application also offers telemedicine facilities, so the communication between doctor and patient can be done online
